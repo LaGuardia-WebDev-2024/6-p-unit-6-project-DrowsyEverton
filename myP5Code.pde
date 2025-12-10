@@ -8,10 +8,15 @@ void setup() {
 //🟢Draw Procedure - Runs on Repeat
 void draw(){
   fill(255,255,255);
-  strokeWeight(1);
+  strokeWeight(0);
 
   //💡⬇️⬇️⬇️💡 Your Code For This Project Goes Here
-  
+  rect(180,321,2000,2000)
+  rect(141,228,200,100)
+  rect(168,147,120,100)
+  rect(186,111,110,40)
+  ellipse(78,305,1000,300); fill()
+
 
   
 
