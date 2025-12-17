@@ -9,6 +9,7 @@ void setup() {
 void draw(){
   fill(255,255,255);
   strokeWeight(0.05);
+  
 
   //💡⬇️⬇️⬇️💡 Your Code For This Project Goes Here
    fill(149, 176, 193, 1000); ellipse(78,305,1000,300)
@@ -19,8 +20,7 @@ void draw(){
  fill( 51, 99, 161, 1000); rect(2,110,158,78)
 fill( 51, 99, 161, 1000); rect (89,93,95,50)
 rect (346,21,200,)
- ellipse (345,119,210,160); ellipse (72,71,250,100)
-
+ ellipse (345,119,210,160); ellipse (72,71,250,100); ;fill( 51, 99, 161, 1000);rect(116,2,15,110); quad (246,330,400,160)
 
   
 

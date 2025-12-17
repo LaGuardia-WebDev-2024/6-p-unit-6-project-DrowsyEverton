@@ -9,7 +9,7 @@ body {
     #1E7BC9 75%, /* Green ends at 75% */
     #B121B6 85%, /* Yellow starts at 75% */
     #DD133B 100% /* Yellow ends at 100% */
-  );
+  ); 
 }
 
 html{
@@ -25,7 +25,7 @@ html{
 .container{
   display: flex;
   flex-wrap: wrap;
-  background-color: white;
+  background-color: rgb(187, 205, 255);
   justify-content: space-around;
   align-items: flex-start;
   padding-bottom: 60px;
@@ -41,9 +41,9 @@ html{
 }
 
 h2{
-  color: black;
+  color: rgb(17, 16, 16); font-size: 78px; font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; 
 }
-
+body{cursor:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'  width='40' height='48' viewport='0 0 100 100' style='fill:black;font-size:24px;'><text y='50%'>❗</text></svg>") 16 0,auto; /*!emojicursor.app*/}
 #start{
   text-align: left;
 }
